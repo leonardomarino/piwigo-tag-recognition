@@ -16,4 +16,4 @@ $lang['Proposed tags'] = 'Mots-clés Proposés';
 $lang['Tag Recognition'] = 'Génération des mots-clés';
 $lang['Tag successfully generated and added'] = 'Les mots-clés ont été générés et ajoutés aux images';
 $lang['Tags successfully added'] = 'Les mots-clés ont été ajoutés';
-$lang['You haven\'t enough request left this month for this action'] = 'Vous n\\'avez pas assez de requête restante ce mois-ci pour effectuer cette action';
+$lang['You haven\'t enough request left this month for this action'] = 'Vous n\'avez pas assez de requête restante ce mois-ci pour effectuer cette action';
